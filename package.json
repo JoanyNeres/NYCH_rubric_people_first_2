@@ -1,6 +1,7 @@
 {
   "name": "rubric_online_experience_2",
   "version": "0.1.0",
+  "homepage": "NYCH_rubric_people_first_2/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
