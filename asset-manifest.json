@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NYCH_rubric_people_first_2/static/css/main.abc9c7b2.css",
+    "main.js": "/NYCH_rubric_people_first_2/static/js/main.99dc2aea.js",
+    "static/js/787.3ea1c181.chunk.js": "/NYCH_rubric_people_first_2/static/js/787.3ea1c181.chunk.js",
+    "index.html": "/NYCH_rubric_people_first_2/index.html",
+    "main.abc9c7b2.css.map": "/NYCH_rubric_people_first_2/static/css/main.abc9c7b2.css.map",
+    "main.99dc2aea.js.map": "/NYCH_rubric_people_first_2/static/js/main.99dc2aea.js.map",
+    "787.3ea1c181.chunk.js.map": "/NYCH_rubric_people_first_2/static/js/787.3ea1c181.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abc9c7b2.css",
+    "static/js/main.99dc2aea.js"
+  ]
+}
